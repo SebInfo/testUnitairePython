@@ -4,13 +4,13 @@ import math
 def addition(a, b):
     return a + b
 
-def square_root(x):
+def racice_carre(x):
     if x < 0:
-        raise ValueError("Cannot take the square root of a negative number.")
+        raise ValueError("Le nombre doit être positif ou égal à 0")
     return math.sqrt(x)
 
-def cosine(x):
+def cosinus(x):
     return math.cos(x)
 
-def sine(x):
+def sinus(x):
     return math.sin(x)
