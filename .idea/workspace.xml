@@ -1,44 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a640311-6f20-4501-b933-c31b4618ff2a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/testUnitairePython.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs 2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace 2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/avecPyTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mon_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests_mon_module.py" afterDir="false" />
+    <list default="true" id="4a640311-6f20-4501-b933-c31b4618ff2a" name="Changes" comment="Ajout test avec environnement">
+      <change afterPath="$PROJECT_DIR$/ExempleBancaire/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExempleBancaire/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExempleBancaire/src/classes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExempleBancaire/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExempleBancaire/tests/test_dictionnaire.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExempleBancaire/src/classes/CompteBancaire.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExempleBancaire/src/classes/CompteBancaire.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExempleBancaire/tests/test_CompteBancaire.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExempleBancaire/tests/test_CompteBancaire.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_program.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_program.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/math_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/math_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_math_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_math_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SebInfo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SebInfo/testUnitairePython.git&quot;,
+    &quot;accountId&quot;: &quot;3f6634f1-ac06-4421-8b01-53d124881398&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2ocWxKGMa0D931IgRE8wPuTLlCX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test_math_functions.TestMathFunctions.test_cosine.executor": "Run",
+    "Python tests.Python tests for test_math_functions.TestMathFunctions.test_paire.executor": "Run",
+    "Python tests.Python tests in testUnitairePython.executor": "Run",
+    "Python tests.Python tests in test_CompteBancaire.py.executor": "Run",
+    "Python tests.Python tests in test_dictionnaire.py.executor": "Run",
+    "Python tests.Python tests in test_math_functions.py.executor": "Run",
     "Python tests.Python tests in tests_mon_module.py.executor": "Run",
+    "Python.CompteBancaire.executor": "Run",
+    "Python.main_program.executor": "Run",
+    "Python.math_functions.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ExempleBancaire/src/classes" />
+      <recent name="$PROJECT_DIR$/ExempleBancaire/src" />
+      <recent name="$PROJECT_DIR$/ExempleBancaire" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests in test_dictionnaire.py">
+    <configuration name="CompteBancaire" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testUnitairePython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExempleBancaire/src/classes/CompteBancaire.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testUnitairePython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_program.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_CompteBancaire.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="testUnitairePython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExempleBancaire/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ExempleBancaire/tests/test_CompteBancaire.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_dictionnaire.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="testUnitairePython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExempleBancaire/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ExempleBancaire/tests/test_dictionnaire.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_math_functions.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="testUnitairePython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_math_functions.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in test_dictionnaire.py" />
+        <item itemvalue="Python tests.Python tests in test_CompteBancaire.py" />
+        <item itemvalue="Python.CompteBancaire" />
+        <item itemvalue="Python tests.Python tests in test_math_functions.py" />
+        <item itemvalue="Python.main_program" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -55,6 +197,66 @@
       <option name="presentableId" value="Default" />
       <updated>1731169589567</updated>
     </task>
+    <task id="LOCAL-00001" summary="suppressions des fichiers">
+      <option name="closed" value="true" />
+      <created>1731170178462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731170178462</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ajout du fichier contenant les fonctions mathématiques">
+      <option name="closed" value="true" />
+      <created>1731170240347</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731170240347</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ajout du programme principal">
+      <option name="closed" value="true" />
+      <created>1731170429693</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731170429693</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Avec des noms en français">
+      <option name="closed" value="true" />
+      <created>1731481302735</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731481302735</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Ajout test avec environnement">
+      <option name="closed" value="true" />
+      <created>1731770552487</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731770552487</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="suppressions des fichiers" />
+    <MESSAGE value="ajout du fichier contenant les fonctions mathématiques" />
+    <MESSAGE value="Ajout du programme principal" />
+    <MESSAGE value="Avec des noms en français" />
+    <MESSAGE value="Ajout test avec environnement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout test avec environnement" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_math_functions.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

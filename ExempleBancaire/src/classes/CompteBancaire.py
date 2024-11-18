@@ -8,6 +8,6 @@ class CompteBancaire:
         self.solde += montant
 
     def retrait(self, montant):
-        if montant > self.balance:
+        if montant > self.solde:
             raise ValueError("Impossible de retirer cette somme les fonds sont insuffisants.")
         self.solde -= montant

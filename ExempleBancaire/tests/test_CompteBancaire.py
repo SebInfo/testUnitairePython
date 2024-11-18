@@ -1,6 +1,9 @@
 import unittest
-
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
 from ExempleBancaire.src.classes.CompteBancaire import CompteBancaire
+
 
 
 class TestCompteBancaire(unittest.TestCase):
@@ -26,8 +29,11 @@ class TestCompteBancaire(unittest.TestCase):
         print("Test retrait réussi.")
 
     def test_retrait_avec_fond_insuffisant(self):
-        with self.assertRaises(ValueError):
+        with self.assertRaises(ValueError) as context:
             self.account.retrait(150)
+        # Vérifier le message exact de l'exception
+        self.assertEqual(str(context.exception), "Impossible de "
+                                                 "retirer cette somme les fonds sont insuffisants.")
         print("Test retrait fonds insuffisants réussi.")
 
     def test_depot_avec_montant_negatif(self):
